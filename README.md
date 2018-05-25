@@ -1,4 +1,4 @@
-# personal-income-statement
+
 Implementation of java swing and jdbc connection
 Operation
 •	This application begins by displaying a table of customer data.
